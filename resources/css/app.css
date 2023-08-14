@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: rgb(224,255,249);
+    background: linear-gradient(0deg, rgba(224,255,249,1) 0%, rgba(227,232,241,1) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
